@@ -1,0 +1,4 @@
+﻿  tut8.cpp
+C:\Users\ziaMh\Documents\First Year\Semester 2\Intro to Programming\Tut8\tut8\tut8\tut8.cpp(40,100): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ziaMh\Documents\First Year\Semester 2\Intro to Programming\Tut8\tut8\tut8\tut8.cpp(46,23): warning C4018: '<': signed/unsigned mismatch
+  tut8.vcxproj -> C:\Users\ziaMh\Documents\First Year\Semester 2\Intro to Programming\Tut8\tut8\Debug\tut8.exe
